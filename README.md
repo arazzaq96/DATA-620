@@ -16,7 +16,7 @@ https://snap.stanford.edu/data/ca-GrQc.html
 - Node size and layout were adjusted for clarity
 
 ## Team
-- [Your Name(s)]
+- [Ariba Mandavia]
 
 ## How to Run
 This notebook uses Python 3 and requires:
