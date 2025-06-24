@@ -5,7 +5,7 @@ This project analyzes the **Southern Women Dataset**, a classic bipartite networ
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 - **Nodes**: 18 women + 14 events = 32 nodes
 - **Edges**: Represent attendance (i.e., a woman attended a particular event)
@@ -17,7 +17,7 @@ This is a **bipartite graph** consisting of two distinct node sets:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Explore and visualize the bipartite network of women and events
 - Compute and compare centrality measures for both women and events
@@ -26,7 +26,7 @@ This is a **bipartite graph** consisting of two distinct node sets:
 
 ---
 
-## 🧪 Methods Used
+##  Methods Used
 
 - **Python Libraries**: `networkx`, `matplotlib`
 - **Bipartite Graph Analysis**
@@ -36,7 +36,7 @@ This is a **bipartite graph** consisting of two distinct node sets:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 ### Relationships between Women
 - Women who attended the same events formed tightly connected clusters.
@@ -49,42 +49,9 @@ This is a **bipartite graph** consisting of two distinct node sets:
 
 ---
 
-## 📁 Files
+## Files
 
 - `Southern_Women_Network_Analysis.ipynb`: Jupyter Notebook containing the full code, visualizations, and analysis
 - `README.md`: This file
 
 ---
-
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
-
-2. Install required packages:
-   ```bash
-   pip install networkx matplotlib
-   ```
-
-3. Run the notebook using Jupyter:
-   ```bash
-   jupyter notebook Southern_Women_Network_Analysis.ipynb
-   ```
-
----
-
-## 📚 References
-
-- Davis, A., Gardner, B. B., & Gardner, M. R. (1941). *Deep South: A Social Anthropological Study of Caste and Class*.
-- NetworkX documentation: https://networkx.github.io/documentation/stable/
-
----
-
-## 👩‍💻 Author
-
-**Ariba Mandavia**  
-Graduate Student, CUNY SPS — Data Science  
-Project Manager, Tech Incubator at Queens College  
