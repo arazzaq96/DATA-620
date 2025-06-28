@@ -1,10 +1,10 @@
-# 📊 MovieLens 2-Mode Network Analysis
+# MovieLens 2-Mode Network Analysis
 
 This project analyzes the **MovieLens 100K** dataset as a **2-mode (bipartite) network** between users and movies. Using Python and NetworkX, we project the bipartite graph onto a user-user network, apply the **island method** to reduce complexity, and explore key patterns in user behavior.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source:** [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/100k/)
 - **Format:** User–Movie ratings with fields:
@@ -12,7 +12,7 @@ This project analyzes the **MovieLens 100K** dataset as a **2-mode (bipartite) n
 
 ---
 
-## 🔧 Methodology
+## Methodology
 
 ### 1. Build Bipartite Graph
 - Users and movies are nodes
@@ -31,7 +31,7 @@ This project analyzes the **MovieLens 100K** dataset as a **2-mode (bipartite) n
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Skewed degree distribution**: few highly connected users, many loosely connected
 - **Island subgraph**: 953 users, 6,289 edges (dense core of similar users)
@@ -40,14 +40,14 @@ This project analyzes the **MovieLens 100K** dataset as a **2-mode (bipartite) n
 
 ---
 
-## 📦 Files
+## Files
 
 - `MovieLens_2Mode_Fixed.ipynb` – main notebook with all code, analysis, and visualizations
 - `README.md` – this file
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 - Python
 - NetworkX
@@ -56,15 +56,15 @@ This project analyzes the **MovieLens 100K** dataset as a **2-mode (bipartite) n
 
 ---
 
-## 📌 Author
+## Author
 
 Ariba Razzak – CUNY SPS  
 Course: DATA 620 – Social Network Analysis  
-Instructor: *[Add if required]*
+
 
 ---
 
-## ✅ How to Run
+## How to Run
 
 1. Download the [MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/)
 2. Place contents of `ml-100k/` in the same directory as the notebook
@@ -72,6 +72,6 @@ Instructor: *[Add if required]*
 
 ---
 
-## 🔍 License
+## License
 
 This analysis is for educational use under fair use policy. Dataset © GroupLens Research.
