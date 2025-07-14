@@ -52,5 +52,5 @@ The project shows that Random Forest is highly effective for spam detection usin
 
 ---
 
-**Author**: Ariba Razzak  
+**Author**: Ariba Mandavia  
 **Course**: DATA 620 — Natural Language Processing  
